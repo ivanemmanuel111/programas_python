@@ -12,3 +12,4 @@ Iván Emmanuel López Ortiz
 - p05 - calcular el promedio de 3 calificaciones
 - p06 - operaciones matemáticas
 - p07 - funciones trigonometricas
+- p08 - Dividir en cifras
