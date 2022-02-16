@@ -13,3 +13,12 @@ Iván Emmanuel López Ortiz
 - p06 - operaciones matemáticas
 - p07 - funciones trigonometricas
 - p08 - Dividir en cifras
+
+## Tarea 01
+
+- p09 - hipotenusa de un triangulo
+- p10 - tercer ángulo
+- p11 - convertir temperatura
+- p12 - Volumen cilindro
+- p13 - Cálculo tiempo
+- p14 - Número suerte
