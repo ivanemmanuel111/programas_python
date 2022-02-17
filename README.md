@@ -22,3 +22,16 @@ Iván Emmanuel López Ortiz
 - p12 - Volumen cilindro
 - p13 - Cálculo tiempo
 - p14 - Número suerte
+
+## Actividad 02
+
+- p15 - Verificar número
+- p16 - Verificar suma
+- p17 – Convertir temperaturas
+- p18 – Paga trabajador v2
+- p19 - Verificar suma v2
+- p20 – Ley de newton
+- p21 - Aceptar estudiante
+- p22 - Ángulos
+
+
