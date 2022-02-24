@@ -52,3 +52,18 @@ Iván Emmanuel López Ortiz
 - p34 - tabla de multiplicar
 - p35 - tabla de multiplicar v2
 - p36 - tabla de conversion a dolar
+
+## Tarea 03
+-p37 -
+
+## Actividad 04 Ciclo For
+- p43 - numeros 1 a 100 con for
+- p44 - numeros de 100 a 1 con for
+- p45 - arriba y abajo segun elija
+- p46 - tabla de multiplicar con for
+- p47 - tabla de multiplicar con for v2
+- p48 - triangulo asteriscos
+- p49 - cuadrado asteriscos
+- p50 - suma de pares e imprares
+- p51 - el factorial
+- p52 - suma de numeros
