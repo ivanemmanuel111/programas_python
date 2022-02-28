@@ -54,7 +54,12 @@ Iván Emmanuel López Ortiz
 - p36 - tabla de conversion a dolar
 
 ## Tarea 03
--p37 -
+- p37 – Números impares ascendente
+- p38 - Números pares descendente
+- p39 - Promedio y suma de numeros
+- p40 - Suma hasta 200
+- p41 - Listado de conversión de temperaturas
+- p42 - Número mayor
 
 ## Actividad 04 Ciclo For
 - p43 - numeros 1 a 100 con for
