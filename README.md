@@ -72,3 +72,20 @@ Iván Emmanuel López Ortiz
 - p50 - suma de pares e imprares
 - p51 - el factorial
 - p52 - suma de numeros
+
+## Tarea 04
+
+- p53 – números de 10 en 10 hasta n
+- p54 – suma de todos los pares entre 1 y n
+- p55 – secuencia de n renglones
+- p56 – secuencia de n renglones v2
+- p57 – secuencia de n términos armónicos
+- p58 – secuencia de n términos v2
+
+## Actividad 05 Cadenas
+- p59 - vocales, consonantes
+- p60 - contar letras, digitos, simbolos
+- p61 - dividir en palabras y contar
+- p62 - procesar texto
+- p63 - formateo de dato
+
