@@ -89,3 +89,11 @@ Iván Emmanuel López Ortiz
 - p62 - procesar texto
 - p63 - formateo de dato
 
+## Tarea 05
+- p64 – vocales, consonantes v2
+- p65 – contar letras, dígitos, símbolos v2
+- p66 – juntar palabras
+- p67 - tabla conversiones
+
+## Actividad 06
+
