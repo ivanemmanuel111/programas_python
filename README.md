@@ -95,5 +95,10 @@ Iván Emmanuel López Ortiz
 - p66 – juntar palabras
 - p67 - tabla conversiones
 
-## Actividad 06
-
+## Actividad 06 Listas
+- p68 – acceder lista
+- p69 – cambiar lista
+- p70 – agregar lista
+- p71 – remover lista
+- p72 – iterar lista
+- p73 – comprension listas
