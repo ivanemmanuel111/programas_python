@@ -102,3 +102,11 @@ Iván Emmanuel López Ortiz
 - p71 – remover lista
 - p72 – iterar lista
 - p73 – comprension listas
+
+## Actividad 07 Listas parte 2
+- p74 – procesar calificaciones
+- p75 – procesar calificaciones v2
+- p76– sumar dos listas de n números
+- p77 – día de paga
+- p78 - nombres y edades
+- p79 – listas con aleatorios
