@@ -110,3 +110,15 @@ Iván Emmanuel López Ortiz
 - p77 – día de paga
 - p78 - nombres y edades
 - p79 – listas con aleatorios
+
+## Tarea06 Listas
+- p80 – procesar notas de clase
+- p81 – listas multiplica
+- p82 – mes días y nombre
+- p83 – listas aleatorios suma
+- p84 - ciudades
+- p85 - lista impare
+
+## Actividad 08 Conjuntos
+- p86 – operaciones sobre conjuntos
+- p87 - operaciones entre conjunto de numeros
