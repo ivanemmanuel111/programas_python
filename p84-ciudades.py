@@ -18,6 +18,6 @@ ciudades.sort(reverse=True) #Orden descentente de la lista (con sort)
 print(f'Lista de ciudades en Forma descentente {ciudades}')
 
 for ciudad in ciudades:
-    if ciudad.startswith('Z'):
+    if ciudad.startswith('Z'): #No pude utilizar el startswith, buscare como
        print (ciudad)
 #print(ciudad.startswith('Z'))

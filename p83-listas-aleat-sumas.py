@@ -35,3 +35,5 @@ print("\nListas numeros aleatorios impares:")
 print(f"Lista 1 : {l1impar}")
 print(f"Lista 2 : {l2impar}")
 print(f"Lista 3 : {l3}")
+
+#fin

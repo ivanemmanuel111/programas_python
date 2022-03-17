@@ -42,3 +42,4 @@ print(f"Promedio : {promedio}")
 print(f"Menores al promedio : {len(mp)} : {mp}")
 print(f"Nota Maxima : {max}")
 print(f"Nota Minima : {min}")
+#fin

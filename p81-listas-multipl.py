@@ -25,3 +25,5 @@ for i in range(c):
 print(f'\nLista1 : {lista1}')
 print(f'\nLista2 : {lista2}')
 print(f'\nLista3 : {lista3}')
+
+#fin
