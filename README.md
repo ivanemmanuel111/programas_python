@@ -122,3 +122,7 @@ Iván Emmanuel López Ortiz
 ## Actividad 08 Conjuntos
 - p86 – operaciones sobre conjuntos
 - p87 - operaciones entre conjunto de numeros
+
+## Tarea 07 Conjuntos
+- p88 - personas
+- p89 - numeros
