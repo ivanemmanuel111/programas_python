@@ -126,3 +126,13 @@ Iván Emmanuel López Ortiz
 ## Tarea 07 Conjuntos
 - p88 - personas
 - p89 - numeros
+
+## Actividad 09 Diccionarios
+- p90 - Estudiante
+- p91 – calificaciones
+- p92 – nombres y edades
+- p93 – procesar pizza
+- p94 – estudiantes datos
+
+## Tarea 08 Diccionarios
+- 
