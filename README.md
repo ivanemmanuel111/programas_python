@@ -135,4 +135,19 @@ Iván Emmanuel López Ortiz
 - p94 – estudiantes datos
 
 ## Tarea 08 Diccionarios
-- 
+- p95 – días semana
+- p96 – números romanos
+- p97 – contar caracteres
+
+## Actividad 10 Funciones
+- p98 - tabla de multiplicar
+- p99 - cuadro carácter
+- p100 - numero mayor
+- p101 - estación del año
+- p102 - temperatura
+- p103 - suma dígitos
+- p104 - factorial
+- p105 - calificación con letra
+- p106 - suma números en un rango
+
+## Tarea 09
