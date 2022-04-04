@@ -151,3 +151,7 @@ Iván Emmanuel López Ortiz
 - p106 - suma números en un rango
 
 ## Tarea 09
+- p107 – numero mayor
+- p108 – día de la semana
+- p109 – Medidas de longitud 
+- p110 – suma pares o impares en un rango
