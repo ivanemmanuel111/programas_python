@@ -155,3 +155,13 @@ Iván Emmanuel López Ortiz
 - p108 – día de la semana
 - p109 – Medidas de longitud 
 - p110 – suma pares o impares en un rango
+
+## Actividad 11 Funciones Parte II
+- p111 - mayor y menor de una lista
+- p112 - promedio y mayores que el promedio
+- p113 - pares e impares
+- p114 - listas aleatorios
+- p115 - procesa nombres
+- p116 - modulo fifa
+- p116 - procesar fifa
+- p117 - módulos integrado
