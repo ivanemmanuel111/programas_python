@@ -165,3 +165,7 @@ Iván Emmanuel López Ortiz
 - p116 - modulo fifa
 - p116 - procesar fifa
 - p117 - módulos integrado
+
+## Tarea 10
+- p118 - modulo poblacion
+- p118 - procesar poblacion
