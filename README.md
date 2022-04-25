@@ -169,3 +169,16 @@ Iván Emmanuel López Ortiz
 ## Tarea 10
 - p118 - modulo poblacion
 - p118 - procesar poblacion
+
+## Actividad 12 Python Pandas parte I
+- p119 - series 1
+- p120 - series 2
+- p121 - series listas
+- p122 - series diccionarios
+- p123 - series archivos cvs
+- p124 - series atributos
+- p125 - series iterar
+- p126 - series acceder 1
+- p127 - series acceder 2
+- p128 - series estadisticas
+- p129 - series operaciones
