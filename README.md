@@ -182,3 +182,12 @@ Iván Emmanuel López Ortiz
 - p127 - series acceder 2
 - p128 - series estadisticas
 - p129 - series operaciones
+
+## Actividad 13
+- p130 - series vivienda
+
+## Tarea 11 Pandas
+- p131 - pandas part 1
+
+## Actividad 14
+- p132 - DataFrame
