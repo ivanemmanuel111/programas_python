@@ -191,3 +191,6 @@ Iván Emmanuel López Ortiz
 
 ## Actividad 14
 - p132 - DataFrame
+
+## Actividad 15
+- p133 - DataFrame Fifa
