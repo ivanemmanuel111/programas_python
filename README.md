@@ -194,3 +194,9 @@ Iván Emmanuel López Ortiz
 
 ## Actividad 15
 - p133 - DataFrame Fifa
+
+## Tarea 12 DataFrame
+- p134 - Fifav2
+
+## Actividad 16 Graficas
+- p135 - matpotlib v1
