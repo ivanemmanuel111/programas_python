@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 
-os.system('clear')
+os.system('cls')
 
 fifa = pd.read_csv('players_21.csv')
 #print(fifa.shape)

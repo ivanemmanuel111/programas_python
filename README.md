@@ -203,3 +203,6 @@ Iván Emmanuel López Ortiz
 
 ## Actividad 17
 - p136 - matpotlib v2
+
+## Tarea 13 Graficas
+- p137 – Matpotlib v3

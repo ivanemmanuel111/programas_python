@@ -4,9 +4,10 @@ import matplotlib.pyplot as plt
 import os 
 import numpy as np
 
-os.system('clear')
+os.system('cls')
 
 fifa = pd.read_csv('players_21.csv')
+##Crear los siguietes subconjuntos de datos
 
 rm = fifa.query("club_name=='Real Madrid'")
 br = fifa.query("club_name=='FC Barcelona'")
