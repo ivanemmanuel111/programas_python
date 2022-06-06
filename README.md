@@ -200,3 +200,6 @@ Iván Emmanuel López Ortiz
 
 ## Actividad 16 Graficas
 - p135 - matpotlib v1
+
+## Actividad 17
+- p136 - matpotlib v2
